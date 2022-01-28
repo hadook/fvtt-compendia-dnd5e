@@ -12,7 +12,7 @@
 		  "name": "dnd5e",
 		  "type": "system"
 		}
-	]
+	],
 	
     "packs": [
         {
@@ -22,6 +22,7 @@
             "type": "Item"
         }
     ],
+	
     "manifest": "https://raw.githubusercontent.com/hadook/fvtt-compendia-dnd5e/main/module.json",
     "download": "https://github.com/hadook/fvtt-compendia-dnd5e/raw/main/hadook-dnd5e.zip"
   }
