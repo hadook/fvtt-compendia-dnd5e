@@ -2,7 +2,7 @@
     "name": "hadook-dnd5e",
     "title": "Hadook's Compendia for D&D5e",
     "description": "A collection of my content.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "hadook",
     "minimumCoreVersion": "9.245",
     "compatibleCoreVersion": "9.245",
