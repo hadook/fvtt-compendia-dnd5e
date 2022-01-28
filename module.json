@@ -4,8 +4,8 @@
     "description": "A collection of my content.",
     "version": "0.0.2",
     "author": "hadook",
-    "minimumCoreVersion": "9.245",
-    "compatibleCoreVersion": "9.245",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
     "packs": [
         {
             "name": "races",
