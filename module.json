@@ -14,6 +14,6 @@
             "type": "Item"
         }
     ],
-    "manifest": "https://github.com/hadook/fvtt-compendia-dnd5e/blob/main/module.json",
-    "download": "https://github.com/hadook/fvtt-compendia-dnd5e/blob/main/hadook-dnd5e.zip"
+    "manifest": "https://raw.githubusercontent.com/hadook/fvtt-compendia-dnd5e/main/module.json",
+    "download": "https://github.com/hadook/fvtt-compendia-dnd5e/raw/main/hadook-dnd5e.zip"
   }
