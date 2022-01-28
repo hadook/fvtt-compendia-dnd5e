@@ -1,28 +1,28 @@
 {
-    "name": "hadook-dnd5e",
-    "title": "Hadook's Compendia for D&D5e",
-    "description": "A collection of my content.",
-    "version": "0.0.3",
-    "author": "hadook",
-    "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
-	
+	"name": "hadook-dnd5e",
+	"title": "Hadook's Compendia for D&D5e",
+	"description": "A collection of my content.",
+	"version": "0.0.3",
+	"author": "hadook",
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "9",
+
 	"dependencies": [
 		{
 		  "name": "dnd5e",
 		  "type": "system"
 		}
 	],
-	
-    "packs": [
-        {
-            "name": "races",
-            "label": "Racial Features",
-            "path": "./packs/races.db",
-            "type": "Item"
-        }
-    ],
-	
-    "manifest": "https://raw.githubusercontent.com/hadook/fvtt-compendia-dnd5e/main/module.json",
-    "download": "https://github.com/hadook/fvtt-compendia-dnd5e/raw/main/hadook-dnd5e.zip"
+
+	"packs": [
+		{
+			"name": "races",
+			"label": "Racial Features",
+			"path": "./packs/races.db",
+			"type": "Item"
+		}
+	],
+
+	"manifest": "https://raw.githubusercontent.com/hadook/fvtt-compendia-dnd5e/main/module.json",
+	"download": "https://github.com/hadook/fvtt-compendia-dnd5e/raw/main/hadook-dnd5e.zip"
   }
